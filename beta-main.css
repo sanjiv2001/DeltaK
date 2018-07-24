@@ -18,6 +18,9 @@ background-image: url("wallpaper.png");
     opacity: 0.65;
 }
 
+p {
+    color: white;
+}
 
 .container {
     padding: 10px;
