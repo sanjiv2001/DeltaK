@@ -67,7 +67,7 @@ html, body {
 .btn {
     background-color: #ff3300;
     //color: orange;
-   text-decoration: none;
+   //text-decoration: none;
    font-family: 'Archivo Black';
     font-weight: 1000;
     font-size: 2em;
@@ -75,3 +75,7 @@ html, body {
     //padding: 10px 20px 10px 20px;
 }
 
+a { 
+    color: white;
+    text-decoration:none;
+}
