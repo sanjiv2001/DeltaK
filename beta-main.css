@@ -30,9 +30,10 @@ background-image: url("wallpaper.png");
 .top {
     font-family: 'Amatic SC';
     height: 300px;
-    font-weight: 1000px;
-    font-style: bold;
-    font-size: 8em;
+  font-family: 'Amatic SC';
+  font-style: bold;
+  font-weight: 1000;
+    font-size: 6em;
 }
 
 /*
