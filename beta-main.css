@@ -65,10 +65,12 @@ html, body {
 
 
 .btn {
-    background-color: #52AE45;
-    color: orange;
+    background-color: #ff3300;
+    //color: orange;
     font-family: 'Archivo Black';
-    border-radius: 50pc;
-    padding: 10px 20px 10px 20px;
+    font-weight: 1000;
+    font-size: 2em;
+    border-radius: 100pc;
+    //padding: 10px 20px 10px 20px;
 }
 
