@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
-html, body {
+body {
     width: 100%;
     height: 100%;
     margin: 0;
@@ -14,8 +14,9 @@ html, body {
     padding-left: 50px;
     width: 100%;
     height: 100%;
+    background-color: #f3fffe;
 }
-
+/*
 .top {
     font-family: Amatic+SC;
     height: 300px;
@@ -38,3 +39,4 @@ input {
 a {
     color: white;
 }
+*/
