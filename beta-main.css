@@ -11,7 +11,7 @@ html, body {
 
 .wallpaper {
 background-image: url("wallpaper.png");
- 
+ bottom: 0;
     position: absolute;
     top: 0;
   left: 0;
