@@ -55,10 +55,10 @@ html, body {
 
 .kopje-lower-text {
     font-family: 'Archivo Black';
-    height: 300px;
+    height: 200px;
     font-style: bold;
     font-weight: 1000;
-    font-size: 6em;
+    font-size: 3em;
     color: white;
 }
 
