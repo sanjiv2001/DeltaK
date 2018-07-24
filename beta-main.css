@@ -31,11 +31,10 @@ html, body {
 .top {
     font-family: 'Amatic SC';
     height: 300px;
-    font-family: 'Amatic SC';
     font-style: bold;
     font-weight: 1000;
     font-size: 6em;
-    color: white;
+    color: blue;
 
 }
 
