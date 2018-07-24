@@ -12,24 +12,14 @@ html, body {
 .wallpaper {
 background-image: url("wallpaper.png");
  width: 100%;
-
+    position: absolute;
     top: 0;
   left: 0;
-}
-
-.greybox{
- background-color: #d9d9d9;
- width: 100%;
-    height: 100%;
-  top: 0;
-  left: 0;
-   opacity: 0.2;
-    
+    opacity: 0.65;
 }
 
 
 .container {
-    position: absolute;
     padding: 10px;
     padding-left: 50px;
     width: 100%;
