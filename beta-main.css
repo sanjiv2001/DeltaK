@@ -65,7 +65,7 @@ html, body {
 
 
 
-.btn{
+a.btn{
  display:inline-block;
  padding:0.3em 1.2em;
  margin:0 0.1em 0.1em 0;
@@ -79,11 +79,11 @@ html, body {
  text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
  transition: all 0.2s;
 }
-.btn:hover{
+a.btn:hover{
  border-color: rgba(255,255,255,1);
 }
 @media all and (max-width:30em){
-.btn{
+a.btn{
   display:block;
   margin:0.2em auto;
  }
