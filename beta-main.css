@@ -48,11 +48,19 @@ html, body {
     height: 300px;
     font-style: bold;
     font-weight: 1000;
-    font-size: 8em;
+    font-size: 7em;
     color: white;
 
 }
 
+.kopje-lower-text {
+    font-family: 'Archivo Black';
+    height: 300px;
+    font-style: bold;
+    font-weight: 1000;
+    font-size: 6em;
+    color: white;
+}
 
 
 
