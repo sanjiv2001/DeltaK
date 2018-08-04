@@ -1,0 +1,225 @@
+body {
+}
+
+#hero {
+  width:100%;
+  height:100vh;
+  background-image:url("../../assets/img/wallpaper.png");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:#fff;
+}
+
+#betahomepg2 {
+}
+
+#betahomepg3 {
+}
+
+#kopjetitle {
+  font-family:'Amatic SC', cursive;
+  font-size:120px;
+  font-weight:normal;
+}
+
+#middleline {
+  font-weight:normal;
+  font-size:36px;
+  margin:0px;
+}
+
+#thirdline {
+  font-size:22px;
+  margin:20px 0px 0px 0px;
+}
+
+#middlelineb {
+  font-size:36px;
+  font-weight:normal;
+  margin:0px;
+  /*padding:0px;*/
+}
+
+#middlelinec {
+  font-size:36px;
+  font-weight:normal;
+  margin:0px;
+}
+
+#hero-top {
+}
+
+#hero-bottom {
+}
+
+.reserve-button {
+  background-color:rgba(228,111,104,0);
+  border:3px solid #fff;
+  border-radius:30px;
+  height:58px;
+  width:225px;
+  font-family:default;
+  font-weight:bold;
+  font-style:italic;
+  margin:44px;
+  color:#f4f6f8;
+}
+
+.btn.btn-link.btn-block.arrow-button {
+  color:rgb(238,242,248);
+  font-size:57px;
+  margin:0px;
+}
+
+#testdiv {
+}
+
+.col.with-borders {
+  border:1px solid rgb(0,0,0);
+  border-top:0;
+  border-bottom:0;
+}
+
+#herosign {
+  background-image:url("../../assets/img/wallpaper.png");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:100%;
+  height:100vh;
+}
+
+#kopjetitlesign {
+  font-family:'Amatic SC', cursive;
+  font-weight:normal;
+  font-size:120px;
+  color:rgb(235,240,245);
+}
+
+#whiteboxsign {
+  background-color:#f2ecec;
+  font-family:Montserrat, sans-serif;
+}
+
+#textsignrows {
+  height:58px;
+}
+
+.first-namebeta {
+}
+
+.last-namebeta {
+}
+
+.email-formbeta {
+}
+
+.instructionssignbeta {
+  height:32px;
+  margin-top:24px;
+  margin-bottom:24px;
+}
+
+#ClaimYourProfile {
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+#parahipaabeta {
+  margin-top:11px;
+}
+
+#maintabsection {
+  width:100%;
+  height:100vh;
+}
+
+#divbottommain {
+  width:100%;
+  background-color:#0a0909;
+}
+
+#stockbar {
+  width:100%;
+}
+
+.col {
+}
+
+#stockconstantbar {
+  width:100%;
+}
+
+#teststockbar {
+  background-color:#070505;
+  width:100%;
+  color:rgb(56,134,213);
+}
+
+#maintabs {
+}
+
+#contentpart {
+  width:100%;
+  /*height:100vh;*/
+}
+
+#drnameandid {
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+  font-size:30px;
+}
+
+#bigmainprice {
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+  font-size:27px;
+  margin-top:14px;
+}
+
+#gainsandlosses {
+  color:rgb(230,49,38);
+  font-size:17px;
+  font-family:Montserrat, sans-serif;
+  margin-top:23px;
+}
+
+.col.boldy {
+  /*font-size:26px;*/
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+}
+
+.rowmainchartbig {
+  font-family:Montserrat, sans-serif;
+}
+
+.headingbigchart {
+  font-size:15px;
+}
+
+.col.boldyo {
+  font-weight:bold;
+  font-family:Montserrat, sans-serif;
+}
+
+#bigmaingraph {
+  background-color:#181414;
+}
+
+#maingraphplaceholder {
+  color:rgb(232,238,245);
+}
+
+.row.tranactionrow {
+  height:60px;
+}
+
+.col.transactioncolumn {
+  height:108px;
+}
+
+#bobsettings {
+}
+
